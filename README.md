@@ -14,6 +14,10 @@ This project started as a batch script made by another student in my class and w
 - Checks to avoid copying files that don't need to be copied. (aka ones that already exist and are exactly the same)
 - Checks to prevent duplicate extensions, since the version of Visual Studio Code on our school PCs does not seem to delete/replace old versions when updating them.
 
+## Contributing
+
+Feel free to help! <a href="https://github.com/NineOfGaming/VSCRunner/issues/new">Open an issue</a> or submit PRs.
+
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the <a href="./LICENSE">LICENSE</a> file for details.
