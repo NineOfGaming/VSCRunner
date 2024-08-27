@@ -11,6 +11,8 @@ This project started as a batch script made by another student in my class and w
 ## Planned Features
 - Multi-threading to improve loading times.
 - Dynamic directory paths, as they are currently hardcoded for our school's system.
+- Checks to avoid copying files that don't need to be copied. (aka ones that already exist and are exactly the same)
+- Checks to prevent duplicate extensions, since the version of Visual Studio Code on our school PCs does not seem to delete/replace old versions when updating.
 
 ## License
 
