@@ -4,8 +4,7 @@ This is an application created for my school to save and load Visual Studio Code
 This project started as a batch script made by another student in my class and was expanded upon by me before being converted to a C# program due to the advantages it provided.
 
 ## Features
-- Save and load VS Code settings.
-- Save and load VS Code extensions.
+- Save VS Code extensions and settings to a separate directory, and load them from it.
 - Output VS Code logs and error messages in a console window.
 
 ## Planned Features
