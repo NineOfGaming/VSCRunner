@@ -1,5 +1,5 @@
 # VSCRunner
-An application created for my school to save and load Visual Studio Code extensions, as the school computers reset after each restart.
+This is an application created for my school to save and load Visual Studio Code extensions, as the school computers reset after each restart.
 
 ## Features
 - Save and load VS Code settings.
