@@ -6,12 +6,11 @@ This project started as a batch script made by another student in my class and w
 ## Features
 - Save VS Code extensions and settings to a separate directory, and load them from it.
 - Output VS Code logs and error messages in a console window.
+- Threading and other performance improvements.
+- Only writes or deletes files if it needs to.
 
 ## Planned Features
-- Multi-threading to improve loading times.
 - Dynamic directory paths, as they are currently hardcoded for our school's system.
-- Checks to avoid copying files that don't need to be copied. (aka ones that already exist and are exactly the same)
-- Checks to prevent saving duplicate extensions, since the version of Visual Studio Code on our school PCs does not seem to delete/replace old versions when updating them.
 
 ## Contributing
 
