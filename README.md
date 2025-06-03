@@ -10,11 +10,7 @@ This project started as a batch script made by another student in my class and w
 - Only writes or deletes files if it needs to.
 
 ## Planned Features
-- Dynamic directory paths, as they are currently hardcoded for our school's system.
-
-## Contributing
-
-Feel free to help! <a href="https://github.com/NineOfGaming/VSCRunner/issues/new">Open an issue</a> or submit PRs.
+- ~Dynamic directory paths, as they are currently hardcoded for our school's system.~
 
 ## License
 
